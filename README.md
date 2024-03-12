@@ -15,7 +15,7 @@
 
       
 -   General Functions
-    -   Discord API to fetch json data from broser
+    -   Discord API to fetch json data from browser
     -   async
 
 
@@ -31,7 +31,6 @@
 1. Fork repository
 2. build project executable in VS
 4. Run the builder by double clicking the `discordGrabber.exe` file
-5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `cstealer.exe`
 
 ## Disclaimer:
 
